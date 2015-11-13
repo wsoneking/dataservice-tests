@@ -1,0 +1,18 @@
+/target/*
+/target
+target/*
+target
+test-output
+test-output/*
+/test-output/*
+/test-output
+/bin/*
+/com/*
+test-output/Default suite/*
+src/test/resources/testdata
+
+*.classpath
+*.iml
+.idea/
+*.project
+/bin/

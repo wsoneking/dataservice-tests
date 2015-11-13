@@ -1,0 +1,12 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="MoveAssignmentContentViaUpdate" verbose="1">
+	<test name="Test">
+		<classes>
+			<class name="com.pearson.test.daalt.dataservice.scenario.MoveAssignmentContentViaUpdate" />
+			<class
+				name="com.pearson.test.daalt.dataservice.WaitForDataToBeProcessed" />
+			<class
+				name="com.pearson.test.daalt.dataservice.validation.ValidateSuiteTests" />
+		</classes>
+	</test> <!-- Test -->
+</suite>

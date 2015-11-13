@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="UserLeavesQuestionWithoutAnsweringMessageValidityTest" verbose="1">
+	<test name="Test">
+		<classes>
+			<class name="com.pearson.test.daalt.dataservice.scenario.singleMsg.UserLeavesQuestionWithoutAnsweringMessageValidityTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite>

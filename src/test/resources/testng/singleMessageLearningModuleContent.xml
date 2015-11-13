@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="LearningModuleContentMessageValidityTest" verbose="1">
+	<test name="Test">
+		<classes>
+			<class name="com.pearson.test.daalt.dataservice.scenario.singleMsg.RevelLmContentMessageValidityTest" />
+			<class name="com.pearson.test.daalt.dataservice.scenario.singleMsg.RevelLmContentEmbeddedMessageValidityTest" />
+		</classes>
+	</test> <!-- Test -->
+</suite>
